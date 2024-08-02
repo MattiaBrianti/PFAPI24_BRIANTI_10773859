@@ -1,2 +1,2 @@
 # PFAPI24_BRIANTI_10773859
-Final exam project for the Algorithms and data structures course
+Final examination for the "Algorithms and principles of computer science" course
